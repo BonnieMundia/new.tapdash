@@ -9,7 +9,7 @@ import Playgrounds
 @Observable
 final class GameModel {
     /// How long one round lasts, in seconds.
-    static let roundLength = 30
+    static let roundLength = 20
 
     /// Diameter of the tappable circle, in points.
     static let targetSize: CGFloat = 70
